@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 //paresh songire
 //poonam
-import 'app/routes/app_routes.dart' hide AppPages;
+import 'app/routes/app_routes.dart' hide AppPages;nvnbvnbv
 import 'app/routes/app_pages.dart';
 
 void main() {
